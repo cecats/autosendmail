@@ -1,0 +1,10 @@
+imaplib
+smtplib
+email
+configparser
+os
+csv
+logging
+requests
+time
+datetime
