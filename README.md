@@ -69,4 +69,3 @@ python3 autosendmail.py
 - **邮件日志**：在 `email_log.csv` 中记录邮件地址，确保每个发件人只被记录一次。
 - **应用日志**：在 `app_log.csv` 中存储一般日志和错误消息，包括详细的错误描述和时间戳。
 - **Telegram 通知**：在出现关键错误时，将通知发送到配置的 Telegram 聊天。
-```
